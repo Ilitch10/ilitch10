@@ -8,18 +8,30 @@ para analizar sus procesos internos.
 Básicamente hago backend con Python y SQL, pensando siempre en los datos que
 hay atrás de todo.
 
-**Con esto trabajo casi a diario:** Python · FastAPI · SQL · PostgreSQL · Pandas
-
 **Lo más específico que me tocó hacer:** armar el pipeline que tomaba logs de
 eventos reales de un sistema en producción y los dejaba listos para analizar
-procesos con PM4Py — o sea, encontrar dónde se atochaba un flujo, no solo
+procesos con PM4Py — o sea, encontrar dónde se atascaba un flujo, no solo
 dibujarlo bonito en un diagrama.
 
-Ahora estoy metido en algo propio, de principio a fin, para dejar de mostrar
-solo código que hice para otros y empezar a mostrar código que decidí yo.
-Cuando esté listo para mostrarse, lo fijo arriba de este perfil.
+### Tech Stack 🧑‍💻
 
-Si algo de esto te hace sentido, o tienes un problema raro que no sabes cómo
-atacar, escríbeme no más.
+**Backend**
 
-[LinkedIn](https://linkedin.com/in/ilitchvillena) · ism.villena@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi)](https://skillicons.dev)
+
+**Bases de datos**
+
+[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+
+**Herramientas**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,azure,docker)](https://skillicons.dev)
+
+### Encuéntrame también en
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilitchvillena)
+
