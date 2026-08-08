@@ -40,7 +40,6 @@ dibujarlo bonito en un diagrama.
 
 ### Encuéntrame también en
 
-<a href="https://linkedin.com/in/ilitchvillena" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" style="border-radius: 8px;" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilitchvillena)
+[![Gmail](https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ism.villena@gmail.com)
 
