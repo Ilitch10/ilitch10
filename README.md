@@ -33,6 +33,10 @@ dibujarlo bonito en un diagrama.
 
 ### Encuéntrame también en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilitchvillena)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ism.villena@gmail.com)
+<a href="https://linkedin.com/in/ilitchvillena" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" />
+</a>
+<a href="mailto:ism.villena@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" height="40" />
+</a>
 
