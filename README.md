@@ -14,6 +14,14 @@ procesos con PM4Py — o sea, encontrar dónde se atascaba un flujo, no solo
 dibujarlo bonito en un diagrama.
 
 
+### En qué me enfoco ahora
+
+* SQL: joins, agregaciones, subconsultas y modelamiento relacional
+* Backend: APIs REST con FastAPI y PostgreSQL
+* Análisis de datos: procesamiento con Pandas y minería de procesos con PM4Py
+* Reforzando SQL avanzado (CTEs, ventanas) y Power BI
+
+
 
 ### Tech Stack 🧑‍💻
 
@@ -22,7 +30,7 @@ dibujarlo bonito en un diagrama.
 [![My Skills](https://skillicons.dev/icons?i=python,fastapi&theme=light)](https://skillicons.dev)
 
 
-**Bases de datos**
+**Bases de datos/SQL**
 
 [![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
