@@ -1,4 +1,4 @@
-# Ilitch Villena
+# Ilitch Villena 👋
 
 Soy Analista Programador, titulado de Duoc UC, y trabajo en desarrollo backend
 con Python y SQL. Mi experiencia la construí en un proyecto para una empresa
@@ -33,5 +33,6 @@ dibujarlo bonito en un diagrama.
 
 ### Encuéntrame también en
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilitchvillena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ilitchvillena)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ism.villena@gmail.com)
 
