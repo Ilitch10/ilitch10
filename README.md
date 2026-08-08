@@ -19,22 +19,22 @@ dibujarlo bonito en un diagrama.
 
 **Backend**
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,fastapi&theme=light)](https://skillicons.dev)
 
 
 **Bases de datos**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=light)](https://skillicons.dev)
 
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css&theme=light)](https://skillicons.dev)
 
 
 **Herramientas**
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker&theme=light)](https://skillicons.dev)
 
 
 
